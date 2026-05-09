@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "GetDatasource retrieves a datasource by ID.\n",
+    "language": "go",
+    "package": "go_pkg_datasource",
+    "source_file": "datasource/proxy.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:53:1"
+  },
+  "id": "go_func_datasource_proxy.go.GetDatasource",
+  "label": "GetDatasource",
+  "type": "function"
+}

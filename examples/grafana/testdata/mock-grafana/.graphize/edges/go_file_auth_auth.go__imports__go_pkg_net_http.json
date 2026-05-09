@@ -1,0 +1,9 @@
+{
+  "attrs": {
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:5:2"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_file_auth_auth.go",
+  "to": "go_pkg_net_http",
+  "type": "imports"
+}

@@ -1,0 +1,9 @@
+{
+  "attrs": {
+    "language": "go",
+    "source_file": "datasource/proxy.go"
+  },
+  "id": "go_pkg_datasource",
+  "label": "datasource",
+  "type": "package"
+}

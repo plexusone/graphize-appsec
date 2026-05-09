@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "CreateUserFromOAuth",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:48:10"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_auth_auth.go.OAuthCallback",
+  "to": "go_func_auth_auth.go.CreateUserFromOAuth",
+  "type": "calls"
+}

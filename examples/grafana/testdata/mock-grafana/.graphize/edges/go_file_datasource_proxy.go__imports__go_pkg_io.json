@@ -1,0 +1,9 @@
+{
+  "attrs": {
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:5:2"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_file_datasource_proxy.go",
+  "to": "go_pkg_io",
+  "type": "imports"
+}

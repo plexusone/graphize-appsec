@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "io.Copy",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:40:2"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_datasource_proxy.go.ProxyHandler",
+  "to": "go_call_io.Copy",
+  "type": "calls"
+}

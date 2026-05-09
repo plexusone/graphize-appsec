@@ -1,0 +1,9 @@
+{
+  "attrs": {
+    "kind": "field_type"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_type_OAuthToken",
+  "to": "go_type_map",
+  "type": "references"
+}

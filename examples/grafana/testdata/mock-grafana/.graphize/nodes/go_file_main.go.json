@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "language": "go",
+    "package": "main",
+    "path": "main.go"
+  },
+  "id": "go_file_main.go",
+  "label": "main.go",
+  "type": "file"
+}

@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "w.Write",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/main.go:30:2"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_main.go.handleDashboards",
+  "to": "go_call_w.Write",
+  "type": "calls"
+}

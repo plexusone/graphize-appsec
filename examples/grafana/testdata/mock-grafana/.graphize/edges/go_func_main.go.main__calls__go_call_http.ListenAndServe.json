@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "http.ListenAndServe",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/main.go:24:12"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_main.go.main",
+  "to": "go_call_http.ListenAndServe",
+  "type": "calls"
+}

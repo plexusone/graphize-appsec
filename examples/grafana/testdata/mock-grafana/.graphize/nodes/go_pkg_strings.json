@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "external": "true",
+    "import_path": "strings",
+    "language": "go"
+  },
+  "id": "go_pkg_strings",
+  "label": "strings",
+  "type": "package"
+}

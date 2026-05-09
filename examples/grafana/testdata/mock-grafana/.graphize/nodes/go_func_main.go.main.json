@@ -1,0 +1,11 @@
+{
+  "attrs": {
+    "language": "go",
+    "package": "go_pkg_main",
+    "source_file": "main.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/main.go:12:1"
+  },
+  "id": "go_func_main.go.main",
+  "label": "main",
+  "type": "function"
+}

@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "LookupUserByEmail finds a user by email address.\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:89:1"
+  },
+  "id": "go_func_auth_auth.go.LookupUserByEmail",
+  "label": "LookupUserByEmail",
+  "type": "function"
+}

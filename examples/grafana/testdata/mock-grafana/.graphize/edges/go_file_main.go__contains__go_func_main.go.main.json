@@ -1,0 +1,6 @@
+{
+  "confidence": "EXTRACTED",
+  "from": "go_file_main.go",
+  "to": "go_func_main.go.main",
+  "type": "contains"
+}

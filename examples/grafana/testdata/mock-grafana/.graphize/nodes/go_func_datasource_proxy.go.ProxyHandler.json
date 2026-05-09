@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "ProxyHandler proxies requests to configured datasources.\nCVE-2023-2801: SSRF vulnerability in datasource proxy\n",
+    "language": "go",
+    "package": "go_pkg_datasource",
+    "source_file": "datasource/proxy.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:12:1"
+  },
+  "id": "go_func_datasource_proxy.go.ProxyHandler",
+  "label": "ProxyHandler",
+  "type": "function"
+}

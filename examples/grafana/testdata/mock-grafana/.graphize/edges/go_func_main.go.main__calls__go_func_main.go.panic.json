@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "panic",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/main.go:25:3"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_main.go.main",
+  "to": "go_func_main.go.panic",
+  "type": "calls"
+}

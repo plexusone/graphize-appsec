@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "ProxyRequest forwards a request to the target URL.\n",
+    "language": "go",
+    "package": "go_pkg_datasource",
+    "source_file": "datasource/proxy.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:81:1"
+  },
+  "id": "go_func_datasource_proxy.go.ProxyRequest",
+  "label": "ProxyRequest",
+  "type": "function"
+}

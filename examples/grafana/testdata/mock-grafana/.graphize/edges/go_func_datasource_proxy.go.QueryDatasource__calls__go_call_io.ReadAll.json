@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "io.ReadAll",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:105:9"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_datasource_proxy.go.QueryDatasource",
+  "to": "go_call_io.ReadAll",
+  "type": "calls"
+}

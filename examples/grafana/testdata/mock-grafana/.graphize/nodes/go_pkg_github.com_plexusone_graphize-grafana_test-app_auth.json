@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "external": "true",
+    "import_path": "github.com/plexusone/graphize-grafana/test-app/auth",
+    "language": "go"
+  },
+  "id": "go_pkg_github.com_plexusone_graphize-grafana_test-app_auth",
+  "label": "auth",
+  "type": "package"
+}

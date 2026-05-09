@@ -1,0 +1,84 @@
+{
+  "vulnerabilities": [
+    {
+      "id": "CVE-2023-6152",
+      "severity": "Medium",
+      "package": "grafana",
+      "version": "10.2.0",
+      "fixed_version": "10.2.3",
+      "cvss": 5.4,
+      "epss_score": 0.02,
+      "description": "Grafana is an open-source platform for monitoring and observability. The email validation in Grafana allows users to use a specially crafted email address that bypasses certain restrictions."
+    },
+    {
+      "id": "CVE-2023-3128",
+      "severity": "Critical",
+      "package": "grafana",
+      "version": "9.5.0",
+      "fixed_version": "9.5.5",
+      "cvss": 9.4,
+      "epss_score": 0.15,
+      "description": "Grafana is validating Azure AD accounts based on the email claim. On Azure AD, the profile email field is not unique and can be easily modified. This leads to account takeover."
+    },
+    {
+      "id": "CVE-2023-2801",
+      "severity": "High",
+      "package": "grafana",
+      "version": "9.4.0",
+      "fixed_version": "9.4.12",
+      "cvss": 7.5,
+      "epss_score": 0.08,
+      "description": "Grafana is an open-source platform for monitoring and observability. A Server Side Request Forgery (SSRF) vulnerability exists in the datasource proxy."
+    },
+    {
+      "id": "CVE-2022-31107",
+      "severity": "High",
+      "package": "grafana",
+      "version": "8.5.0",
+      "fixed_version": "8.5.14",
+      "cvss": 7.1,
+      "epss_score": 0.05,
+      "description": "Grafana is an open-source platform for monitoring and observability. OAuth account takeover is possible when a malicious actor is able to register a user in an external OAuth provider."
+    },
+    {
+      "id": "CVE-2022-29170",
+      "severity": "High",
+      "package": "grafana",
+      "version": "8.4.0",
+      "fixed_version": "8.4.11",
+      "cvss": 8.5,
+      "epss_score": 0.12,
+      "description": "Grafana is an open-source platform for monitoring and observability. A Server Side Request Forgery (SSRF) vulnerability exists via a malicious datasource plugin."
+    },
+    {
+      "id": "CVE-2023-22462",
+      "severity": "Medium",
+      "package": "grafana",
+      "version": "9.3.0",
+      "fixed_version": "9.3.4",
+      "cvss": 6.1,
+      "epss_score": 0.03,
+      "description": "Grafana is an open-source platform for monitoring and observability. A stored XSS vulnerability exists in the Text panel plugin."
+    },
+    {
+      "id": "GHSA-cvm3-pp2j-chr3",
+      "severity": "High",
+      "package": "github.com/grafana/grafana",
+      "version": "9.0.0",
+      "fixed_version": "9.0.9",
+      "cvss": 7.5,
+      "epss_score": 0.04,
+      "description": "Grafana allows users with low privileges to access API endpoints that allow them to retrieve configuration information."
+    },
+    {
+      "id": "CVE-2021-43798",
+      "severity": "Critical",
+      "package": "grafana",
+      "version": "8.0.0",
+      "fixed_version": "8.3.1",
+      "cvss": 9.8,
+      "epss_score": 0.97,
+      "description": "Grafana is an open-source platform for monitoring and observability. Grafana versions 8.0.0-beta1 through 8.3.0 are vulnerable to directory traversal, allowing access to local files."
+    }
+  ]
+}

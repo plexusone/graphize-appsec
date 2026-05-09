@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "OAuthCallback handles OAuth provider callbacks.\nCVE-2023-3128: Azure AD account takeover via email claim\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:31:1"
+  },
+  "id": "go_func_auth_auth.go.OAuthCallback",
+  "label": "OAuthCallback",
+  "type": "function"
+}

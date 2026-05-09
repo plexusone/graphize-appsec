@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "url.QueryEscape",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:98:49"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_datasource_proxy.go.QueryDatasource",
+  "to": "go_call_url.QueryEscape",
+  "type": "calls"
+}

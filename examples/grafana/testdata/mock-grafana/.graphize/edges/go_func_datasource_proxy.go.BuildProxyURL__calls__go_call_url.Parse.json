@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "url.Parse",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:72:17"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_datasource_proxy.go.BuildProxyURL",
+  "to": "go_call_url.Parse",
+  "type": "calls"
+}

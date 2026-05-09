@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "language": "go",
+    "package": "auth",
+    "path": "auth/auth.go"
+  },
+  "id": "go_file_auth_auth.go",
+  "label": "auth.go",
+  "type": "file"
+}

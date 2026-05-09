@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "external": "true",
+    "import_path": "net/url",
+    "language": "go"
+  },
+  "id": "go_pkg_net_url",
+  "label": "url",
+  "type": "package"
+}

@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "ExchangeOAuthCode exchanges an authorization code for a token.\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:73:1"
+  },
+  "id": "go_func_auth_auth.go.ExchangeOAuthCode",
+  "label": "ExchangeOAuthCode",
+  "type": "function"
+}

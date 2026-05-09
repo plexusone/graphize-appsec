@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "external": "true",
+    "import_path": "fmt",
+    "language": "go"
+  },
+  "id": "go_pkg_fmt",
+  "label": "fmt",
+  "type": "package"
+}

@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "ValidateEmail performs basic email validation.\nVulnerable to bypass with specially crafted addresses\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:56:1"
+  },
+  "id": "go_func_auth_auth.go.ValidateEmail",
+  "label": "ValidateEmail",
+  "type": "function"
+}

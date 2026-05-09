@@ -1,0 +1,6 @@
+{
+  "confidence": "EXTRACTED",
+  "from": "go_file_auth_auth.go",
+  "to": "go_func_auth_auth.go.ValidateEmail",
+  "type": "contains"
+}

@@ -1,0 +1,9 @@
+{
+  "attrs": {
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/main.go:8:2"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_file_main.go",
+  "to": "go_pkg_github.com_plexusone_graphize-grafana_test-app_auth",
+  "type": "imports"
+}

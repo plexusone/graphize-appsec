@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "LoginHandler handles user login requests.\nCVE-2023-6152: Email validation bypass vulnerability\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:11:1"
+  },
+  "id": "go_func_auth_auth.go.LoginHandler",
+  "label": "LoginHandler",
+  "type": "function"
+}

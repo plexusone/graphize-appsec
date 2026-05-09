@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "external": "true",
+    "import_path": "io",
+    "language": "go"
+  },
+  "id": "go_pkg_io",
+  "label": "io",
+  "type": "package"
+}

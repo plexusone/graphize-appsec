@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "User represents a user account.\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:82:6"
+  },
+  "id": "go_type_User",
+  "label": "User",
+  "type": "struct"
+}

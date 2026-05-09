@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "Datasource represents a configured datasource.\n",
+    "language": "go",
+    "package": "go_pkg_datasource",
+    "source_file": "datasource/proxy.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:44:6"
+  },
+  "id": "go_type_Datasource",
+  "label": "Datasource",
+  "type": "struct"
+}

@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "strings.Contains",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:57:9"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_auth_auth.go.ValidateEmail",
+  "to": "go_call_strings.Contains",
+  "type": "calls"
+}

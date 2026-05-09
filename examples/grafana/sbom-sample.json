@@ -1,0 +1,65 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2024-01-15T10:00:00Z",
+    "component": {
+      "type": "application",
+      "name": "grafana",
+      "version": "10.2.0",
+      "bom-ref": "pkg:golang/github.com/grafana/grafana@10.2.0"
+    }
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "grafana",
+      "version": "10.2.0",
+      "bom-ref": "pkg:golang/github.com/grafana/grafana@10.2.0",
+      "purl": "pkg:golang/github.com/grafana/grafana@10.2.0"
+    },
+    {
+      "type": "library",
+      "name": "grafana-plugin-sdk-go",
+      "version": "0.197.0",
+      "bom-ref": "pkg:golang/github.com/grafana/grafana-plugin-sdk-go@0.197.0",
+      "purl": "pkg:golang/github.com/grafana/grafana-plugin-sdk-go@0.197.0"
+    },
+    {
+      "type": "library",
+      "name": "go-jose",
+      "version": "2.6.0",
+      "bom-ref": "pkg:golang/gopkg.in/go-jose/go-jose.v2@2.6.0",
+      "purl": "pkg:golang/gopkg.in/go-jose/go-jose.v2@2.6.0"
+    },
+    {
+      "type": "library",
+      "name": "prometheus-client",
+      "version": "1.17.0",
+      "bom-ref": "pkg:golang/github.com/prometheus/client_golang@1.17.0",
+      "purl": "pkg:golang/github.com/prometheus/client_golang@1.17.0"
+    },
+    {
+      "type": "library",
+      "name": "go-redis",
+      "version": "9.3.0",
+      "bom-ref": "pkg:golang/github.com/redis/go-redis/v9@9.3.0",
+      "purl": "pkg:golang/github.com/redis/go-redis/v9@9.3.0"
+    },
+    {
+      "type": "library",
+      "name": "oauth2",
+      "version": "0.15.0",
+      "bom-ref": "pkg:golang/golang.org/x/oauth2@0.15.0",
+      "purl": "pkg:golang/golang.org/x/oauth2@0.15.0"
+    },
+    {
+      "type": "library",
+      "name": "azure-sdk-for-go",
+      "version": "1.0.0",
+      "bom-ref": "pkg:golang/github.com/Azure/azure-sdk-for-go@1.0.0",
+      "purl": "pkg:golang/github.com/Azure/azure-sdk-for-go@1.0.0"
+    }
+  ]
+}

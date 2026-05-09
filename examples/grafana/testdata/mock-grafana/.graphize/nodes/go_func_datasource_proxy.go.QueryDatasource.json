@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "QueryDatasource executes a query against a datasource.\n",
+    "language": "go",
+    "package": "go_pkg_datasource",
+    "source_file": "datasource/proxy.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:97:1"
+  },
+  "id": "go_func_datasource_proxy.go.QueryDatasource",
+  "label": "QueryDatasource",
+  "type": "function"
+}

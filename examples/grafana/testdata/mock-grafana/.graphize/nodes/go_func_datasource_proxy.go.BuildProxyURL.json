@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "BuildProxyURL constructs the proxy target URL.\nVulnerable: allows arbitrary URL construction\n",
+    "language": "go",
+    "package": "go_pkg_datasource",
+    "source_file": "datasource/proxy.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:65:1"
+  },
+  "id": "go_func_datasource_proxy.go.BuildProxyURL",
+  "label": "BuildProxyURL",
+  "type": "function"
+}

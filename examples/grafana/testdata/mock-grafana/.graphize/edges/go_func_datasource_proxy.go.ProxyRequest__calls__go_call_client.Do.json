@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "client.Do",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/datasource/proxy.go:93:9"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_datasource_proxy.go.ProxyRequest",
+  "to": "go_call_client.Do",
+  "type": "calls"
+}

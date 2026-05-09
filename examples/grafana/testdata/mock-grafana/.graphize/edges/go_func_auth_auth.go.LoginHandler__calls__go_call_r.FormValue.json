@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "callee_name": "r.FormValue",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:13:14"
+  },
+  "confidence": "EXTRACTED",
+  "from": "go_func_auth_auth.go.LoginHandler",
+  "to": "go_call_r.FormValue",
+  "type": "calls"
+}

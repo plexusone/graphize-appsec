@@ -1,0 +1,6 @@
+{
+  "confidence": "EXTRACTED",
+  "from": "go_file_datasource_proxy.go",
+  "to": "go_func_datasource_proxy.go.BuildProxyURL",
+  "type": "contains"
+}

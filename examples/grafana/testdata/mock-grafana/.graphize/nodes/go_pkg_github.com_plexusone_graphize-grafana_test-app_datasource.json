@@ -1,0 +1,10 @@
+{
+  "attrs": {
+    "external": "true",
+    "import_path": "github.com/plexusone/graphize-grafana/test-app/datasource",
+    "language": "go"
+  },
+  "id": "go_pkg_github.com_plexusone_graphize-grafana_test-app_datasource",
+  "label": "datasource",
+  "type": "package"
+}

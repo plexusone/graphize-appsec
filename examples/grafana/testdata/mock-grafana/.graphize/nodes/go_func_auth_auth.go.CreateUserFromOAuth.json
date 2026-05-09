@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "CreateUserFromOAuth creates a new user from OAuth claims.\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:95:1"
+  },
+  "id": "go_func_auth_auth.go.CreateUserFromOAuth",
+  "label": "CreateUserFromOAuth",
+  "type": "function"
+}

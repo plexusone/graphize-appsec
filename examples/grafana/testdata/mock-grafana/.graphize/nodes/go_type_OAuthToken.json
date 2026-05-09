@@ -1,0 +1,12 @@
+{
+  "attrs": {
+    "doc": "OAuthToken represents an OAuth token response.\n",
+    "language": "go",
+    "package": "go_pkg_auth",
+    "source_file": "auth/auth.go",
+    "source_location": "/Users/johnwang/go/src/github.com/plexusone/graphize-grafana/test-app/auth/auth.go:67:6"
+  },
+  "id": "go_type_OAuthToken",
+  "label": "OAuthToken",
+  "type": "struct"
+}
