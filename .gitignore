@@ -4,7 +4,7 @@
 *.dll
 *.so
 *.dylib
-graphize-appsec
+/graphize-appsec
 
 # Test binary
 *.test
