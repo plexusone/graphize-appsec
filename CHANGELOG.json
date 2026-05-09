@@ -1,0 +1,57 @@
+{
+  "irVersion": "1.0",
+  "project": "graphize-appsec",
+  "repository": "https://github.com/plexusone/graphize-appsec",
+  "versioning": "semver",
+  "commitConvention": "conventional",
+  "maintainers": ["grokify", "johncwang@gmail.com"],
+  "releases": [
+    {
+      "version": "v0.3.0",
+      "date": "2026-05-09",
+      "highlights": [
+        { "description": "Initial public release with 16 reachability tests" },
+        { "description": "VEX generation with CycloneDX support for SBOM enrichment" },
+        { "description": "MkDocs documentation site with PlexusOne theme" }
+      ],
+      "added": [
+        { "description": "Reachability test framework with 16 tests across Reachable (7), Exploitable (6), and Damage (3) categories" },
+        { "description": "VEX generation with CycloneDX JSON support and SBOM enrichment" },
+        { "description": "Graph query utilities for security analysis using graphfs" },
+        { "description": "`assess` command for single CVE reachability analysis" },
+        { "description": "`vex enrich` command to add VEX analysis to existing SBOMs" },
+        { "description": "`vex generate` command for standalone VEX document creation" },
+        { "description": "`test list` command to show available reachability tests" },
+        { "description": "`doctor` command to verify graphize, syft, grype, and trivy installation" },
+        { "description": "MkDocs documentation with CLI reference, reachability tests, and VEX format guides" },
+        { "description": "Grafana mock application example for testing reachability analysis" },
+        { "description": "PlexusOne unified navigation theme" }
+      ],
+      "documentation": [
+        { "description": "Getting started guide with installation and quick workflow" },
+        { "description": "CLI reference documentation for all commands" },
+        { "description": "Reachability tests reference documenting all 16 tests" },
+        { "description": "VEX output format reference with CycloneDX examples" },
+        { "description": "SBOM governance guide with best practices" },
+        { "description": "Parser landscape reference for multi-language analysis" }
+      ],
+      "infrastructure": [
+        { "description": "GitHub Actions workflows for CI, linting, and CodeQL SAST" },
+        { "description": "Dependabot configuration for Go modules" },
+        { "description": "golangci-lint configuration" }
+      ]
+    },
+    {
+      "version": "v0.2.0",
+      "date": "2026-05-09",
+      "retracted": true,
+      "retractedReason": "Superseded by v0.3.0"
+    },
+    {
+      "version": "v0.1.0",
+      "date": "2026-05-09",
+      "retracted": true,
+      "retractedReason": "Superseded by v0.3.0"
+    }
+  ]
+}
