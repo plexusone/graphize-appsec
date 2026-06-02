@@ -12,7 +12,6 @@ retract (
 require (
 	github.com/CycloneDX/cyclonedx-go v0.11.0
 	github.com/plexusone/graphfs v0.2.0
-	github.com/plexusone/structured-evaluation v0.5.0
 	github.com/spf13/cobra v1.10.2
 )
 
